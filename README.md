@@ -22,15 +22,22 @@ Design of temperature and humidity acquisition system based on Rt-Thread-STM32F1
 
 ## 部分工程效果展示
 
-主菜单显示：
+### 主菜单显示：
 主菜单分为5个功能：1.温度阈值设定2.湿度阈值设定3.采样频率设定
 4.温湿度曲线显示 5.温湿度实时数值显示
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3ac01edc4e6947d5b0db3f0de9a4a202.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VpeGluXzQ1OTM0ODY5,size_6,color_FFFFFF,t_70,g_se,x_16#pic_center)
-温湿度，采样频率设定：
+
+### 温湿度，采样频率设定：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4d47a750efd842c69d13e7d2e6b8ba06.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VpeGluXzQ1OTM0ODY5,size_9,color_FFFFFF,t_70,g_se,x_16#pic_center)
-温湿度曲线：
+
+### 温湿度曲线：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e9fce93df53d40d79992e62863220b7e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VpeGluXzQ1OTM0ODY5,size_6,color_FFFFFF,t_70,g_se,x_16#pic_center)
-在原子云端查看wifi发送的信息：
+
+### 在原子云端查看wifi发送的信息：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8ec580d03f214153b2118b8392a57c0b.png#pic_center)
-SD卡csv温湿度信息文件存储效果：
+
+### SD卡csv温湿度信息文件存储效果：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/61b4966f30eb47c68b9aafb8ea1af939.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VpeGluXzQ1OTM0ODY5,size_6,color_FFFFFF,t_70,g_se,x_16#pic_center)
